@@ -9,11 +9,11 @@ suno以及suno api资料（suno,suno中文版,ai写歌,ai音乐创作,ai写歌�
 
 
 #### Suno中文站
-https://suno3.cn/#/?i=8NCBS8_GTEE
+[https://suno3.cn/#/?i=8NCBS8_GTEE](https://suno3.cn/#/?i=8NCBS8_GTHB)
 
 手机端可以扫码：
 
-![输入图片说明](https://gitee.com/happyangellxq520/suno-api/raw/master/imghttpssuno3.cn%23i=8NCBS8_GTEE.png)
+![httpssuno3 cn#i=8NCBS8_GTHB](https://github.com/linxiangqian/suno-api/assets/31098181/f697ac2a-cd94-4874-b18a-a74d59f4d312)
 
 sunoai音乐创作吧：https://tieba.baidu.com/f?kw=sunoai%E9%9F%B3%E4%B9%90%E5%88%9B%E4%BD%9C&fr=index
 
