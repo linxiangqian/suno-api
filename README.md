@@ -18,6 +18,10 @@ suno以及suno api资料（suno,suno中文版,ai写歌,ai音乐创作,ai写歌�
 sunoai音乐创作吧：https://tieba.baidu.com/f?kw=sunoai%E9%9F%B3%E4%B9%90%E5%88%9B%E4%BD%9C&fr=index
 
 
+#### AI导航 | 800+ AI工具集合官网，国内外AI工具集导航大全
+http://ai.dzwlai.com/
+
+
 #### 文章
 AI音乐，8大变现方式——Suno：音乐版的ChatGPT: https://mp.weixin.qq.com/s/frZCjOxDQ2hoIa0a67mcDQ
 
